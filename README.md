@@ -7,8 +7,7 @@ I am <b>Anish Kolhe</b>. I am currently an undergraduate student pursuing my deg
 <br /><br />
 [![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AK1003018&show_icons=true&theme=dark&count_private=true&hide=stars,issues)](https://github.com/AK1003018/github-readme-stats)
 <br /><br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK1003018)](https://github.com/AK1003018/github-readme-stats) 
-<br /><br />
+..
 ![Anish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AK1003018)
 <br />
 ## Connect with Me 🤝🏻

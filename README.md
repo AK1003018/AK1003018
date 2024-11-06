@@ -1,6 +1,6 @@
 # Hello there! 👋🏻 This is Anish!
 
-I am <b>Anish</b>. Completed my undergraduate degree in Electrical Engineering. I am a Developer and also currently developing keen interest in Problem Solving. I am skilled in programming languages Python, C/C++, Java and Technology like MySQL. Also I am familiar with the IOT. And familiar with OS like linux and CentOS. I love exploring new tools I could contribute in building which could have an everlasting effect on humanity.
+I am <b>Anish</b>.
 <br /><br />
 ## My Github Activity
 

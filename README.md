@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Anish Kolhe!
 
-A passionate and driven developer specializing in building modern web and mobile applications. I love translating ideas into robust, scalable solutions that put users first. My experience spans full-stack development, cloud technologies, and real-world projects in both team and hackathon settings. Currently bridging backend engineering with frontend/mobile innovation as a recent CDAC Mobile Computing graduate.
+I enjoy Coding.
 
 ---
 

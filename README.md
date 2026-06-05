@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Anish Kolhe!
 
-I enjoy Coding.
+Developer.
 
 ---
 
